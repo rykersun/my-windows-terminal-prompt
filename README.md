@@ -17,3 +17,4 @@ cd my-windows-terminal-prompt/ # cd inside
 
 mv .profile ~/ && mv omp/ ~/ # move these files to your home directory
 ```
+# End
